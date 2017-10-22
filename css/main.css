@@ -20,6 +20,7 @@ a {
   color: #000;
   padding-left: 10px;
 }
+/*Aplicamos otras propiedades para hacer el cambio de color cuando pasamos el cursor*/
 a:hover {
   background: #e0e0d1;
 }
@@ -27,6 +28,7 @@ a:active {
   background: #333;
   color: fff;
 }
+/*Seleccionamos el primer hijo*/
 ul li:first-child {
   background: #f9a91a;
 }
